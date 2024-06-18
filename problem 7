@@ -1,0 +1,27 @@
+Q:In one hour, a boat goes 11 km/hr along the stream and 5 km/hr against the stream. The speed of the boat in still water (in km/hr) is:
+A. 3km/hr
+B. 5km/hr
+C. 8km/hr
+D. 9km/hr
+Ans:
+Let's break this problem down step by step!
+
+Let the speed of the boat in still water be B km/h and the speed of the water current be S km/h.
+
+When the boat is moving along the stream, its effective speed is (B + S) km/h. When the boat is moving against the stream, its effective speed is (B - S) km/h.
+
+We are given that the boat travels 11 km in 1 hour along the stream, so its effective speed along the stream is 11 km/h. We are also given that the boat travels 5 km in 1 hour against the stream, so its effective speed against the stream is 5 km/h.
+
+Now, we can set up the following equations:
+
+B + S = 11... (1) B - S = 5... (2)
+
+Add equation (1) and equation (2) to eliminate S:
+
+2B = 16 B = 8
+
+So, the speed of the boat in still water is 8 km/h.
+
+The correct answer is:
+
+C. 8 km/hr
