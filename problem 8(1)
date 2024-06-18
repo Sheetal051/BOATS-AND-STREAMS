@@ -1,0 +1,29 @@
+Q:. A man takes twice as long to row a distance against the stream as to row the same distance in favour of the stream. The ratio of the speed of the boat (in still water) and the stream is:
+A. 2 : 1
+B. 3 : 1
+C. 3 : 2
+D. 4 : 3
+Ans:
+Let's break this down step by step!
+
+Let the speed of the boat in still water be x km/h and the speed of the stream be y km/h.
+
+When the man rows in favour of the stream, his effective speed is x + y km/h.
+
+When he rows against the stream, his effective speed is x - y km/h.
+
+Since it takes him twice as long to row a distance against the stream as to row the same distance in favour of the stream, we can set up the following equation:
+Time taken to row against the stream = 2 × Time taken to row in favour of the stream
+
+We know that Time = Distance / Speed, so we can rewrite the equation as:
+Distance / (x - y) = 2 × Distance / (x + y)
+
+Simplifying the equation, we get:
+x - y = (1/2) × (x + y)
+
+Solving for x and y, we get:
+x = 3y
+
+So, the ratio of the speed of the boat (in still water) to the speed of the stream is 3:1.
+
+The correct answer is B. 3 : 1.
