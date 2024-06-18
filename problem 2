@@ -1,0 +1,27 @@
+Q: A man can row 9(1/3) km/hr in still water. He finds that it takes thrice as much time to row upstream as to row downstream (same distance). Find the speed of the current.
+A. 3(1/3) km/hr
+B. 1(1/4) km/hr
+C. 4(2/3) km/hr
+D. 3[1/9] km/hr
+Ans:
+First, let's define some variables:
+
+Let S be the speed of the boatman in still water.
+Let C be the speed of the current.
+When the boatman rows downstream, his effective speed is the sum of his speed in still water and the current's speed. So, the downstream speed is (S + C) km/hr.
+
+When the boatman rows upstream, his effective speed is the difference between his speed in still water and the current's speed. So, the upstream speed is (S - C) km/hr.
+
+The problem states that it takes thrice as much time to row upstream as to row downstream for the same distance. We can write this relationship as:
+(S + C) / (S - C) = 3
+
+Now, we can solve for the speed of the current (C) using algebraic manipulation:
+(S + C) = 3(S - C) S + C = 3S - 3C 4C = 2S C = S/2
+
+This means that the speed of the current is half the speed of the boatman in still water.
+
+Since the speed of the current is half the speed of the boatman in still water, and the man can row 9(1/3) km/hr in still water, the speed of the current is:
+
+C = S/2 = (9(1/3))/2 = 4(2/3) km/hr
+
+Therefore, option C is the correct answer.
