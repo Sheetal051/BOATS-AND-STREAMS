@@ -1,0 +1,21 @@
+Q:Speed of a boat in standing water is 9 kmph and the speed of the stream is 1.5 kmph. A man rows to a place at a distance of 105 km and comes back to the starting point. The total time taken by him is:
+A. 16 hours
+B. 18 hours
+C. 20 hours
+D. 24 hours
+Ans:
+Let's first find the speed of the boat with respect to the water in both directions:
+
+Upstream (against the current): (9 - 1.5) km/h = 7.5 km/h
+Downstream (with the current): (9 + 1.5) km/h = 10.5 km/h
+
+Now, let's find the time taken for each leg of the journey:
+
+Time taken to row to the place (upstream): 105 km / 7.5 km/h = 14 hours
+Time taken to row back to the starting point (downstream): 105 km / 10.5 km/h ≈ 10 hours
+
+Now, let's find the total time taken for the entire journey:
+Total time = Time taken to row to the place + Time taken to row back = 14 hours + 10 hours = 24 hours
+
+So, the correct answer is:
+D. 24 hours
