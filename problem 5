@@ -1,0 +1,29 @@
+Q: A boat running upstream takes 9 hours 48 minutes to cover a certain distance, while it takes 7 hours to cover the same distance running downstream. What is the ratio between the speed of the boat and speed of the water current respectively?
+A. 5:2
+B. 7:4
+C. 6:1
+D. 8:3
+Ans:
+Let's break this problem down step by step!
+
+Let the speed of the boat be x km/h and the speed of the water current be y km/h.
+
+When the boat is running upstream, its effective speed is (x - y) km/h. When the boat is running downstream, its effective speed is (x + y) km/h.
+
+The time taken to cover the same distance upstream is 9 hours 48 minutes, which is equal to 9.8 hours. The time taken to cover the same distance downstream is 7 hours.
+
+Let the distance be d km. Then, we can set up the following equations:
+d / (x - y) = 9.8... (1) d / (x + y) = 7... (2)
+
+Now, we can divide equation (1) by equation (2) to eliminate d:
+(x + y) / (x - y) = 7 / 9.8 (x + y) / (x - y) = 0.714
+
+Cross-multiply and simplify:
+0.714x - 0.714y = x + y 0.286x = 1.714y x = 6y
+
+Now, we can find the ratio of the speed of the boat to the speed of the water current:
+x : y = 6y : y = 6 : 1
+
+So, the correct answer is:
+
+C. 6:1
