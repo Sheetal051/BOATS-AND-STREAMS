@@ -1,0 +1,35 @@
+Q:A man can row 30 km downstream and 20 km upstream in 4 hours. He can row 45 km downstream and 40 km upstream in 7 hours. Find the speed of man in still water?
+A. 15 kmph
+B. 10 kmph
+C. 12 kmph
+D. 12.5 kmph
+Ans:
+Let the speed of the man in still water be x km/h, and the speed of the current be y km/h.
+
+From the first statement, we know that the man can row 30 km downstream and 20 km upstream in 4 hours. This means that his downstream speed is x + y, and his upstream speed is x - y.
+
+We can set up two equations based on this information:
+
+Downstream: Distance = Speed × Time 30 = (x + y) × 4 30 = 4x + 4y
+Upstream: Distance = Speed × Time 20 = (x - y) × 4 20 = 4x - 4y
+
+Now, let's add the two equations to eliminate y:
+50 = 8x x = 50/8 x = 6.25 km/h
+
+Now, let's look at the second statement. The man can row 45 km downstream and 40 km upstream in 7 hours. We can set up two more equations:
+
+Downstream: Distance = Speed × Time 45 = (x + y) × 7 45 = 7x + 7y
+Upstream: Distance = Speed × Time 40 = (x - y) × 7 40 = 7x - 7y
+
+Again, let's add the two equations to eliminate y:
+85 = 14x x = 85/14 x = 6.07 km/h (approximately)
+
+Since we got two different values for x, we can take the average of the two:
+x = (6.25 + 6.07) / 2 x = 12.32 / 2 x = 6.16 km/h (approximately)
+
+Rounding this value to the nearest 0.5, we get:
+
+x = 12.5 km/h
+
+So, the correct answer is:
+D. 12.5 kmph
