@@ -1,0 +1,15 @@
+Q: A boat travels from A to B along the stream and from B to A against the stream in 3 hours. If the velocity of the boat in still water is 4 km/hr, what is the distance between A and B?
+A. 8 km
+B. 10 km
+C. 12 km
+D. Data insufficient
+Ans:
+Let the speed of the current be x km/hr. Then, the downstream speed is (4 + x) km/hr, and the upstream speed is (4 - x) km/hr.
+
+Since the time taken to travel from A to B along the stream and from B to A against the stream is the same (3 hours), we can set up the equation:
+
+(4 + x) = (4 - x)
+
+Solving for x, we get x = 0 km/hr. This means that the speed of the current is 0 km/hr, which is not possible. Therefore, the problem statement is incorrect, and we cannot find the distance between A and B.
+
+So, the correct answer is D. Data insufficient.
