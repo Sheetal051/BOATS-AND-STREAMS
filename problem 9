@@ -1,0 +1,24 @@
+Q:The time taken by a man to row his boat upstream is twice the time taken by him to row the same distance downstream. If the speed of the boat in still water is 42 kmph, find the speed of the stream?
+A. 12 kmph
+B. 13 kmph
+C. 14 kmph
+D. 15 kmph
+Ans:
+Let the speed of the stream be x kmph.
+
+Since the time taken to row upstream is twice the time taken to row downstream, we can say that the speed of the boat upstream is half the speed of the boat downstream.
+
+The speed of the boat upstream = Speed of the boat in still water - Speed of the stream = 42 - x
+
+The speed of the boat downstream = Speed of the boat in still water + Speed of the stream = 42 + x
+
+Since the distance is the same in both cases, we can set up the equation:
+(42 - x) × 2 = 42 + x
+
+Simplifying the equation, we get:
+
+84 - 2x = 42 + x 3x = 42 x = 14
+
+So, the speed of the stream is 14 kmph.
+
+The correct answer is C. 14 kmph.
